@@ -1,2 +1,4 @@
 # Cancer-Diagnosis
-Predict the effect of Genetic Variants to enable Personalized Medicine $15,000
+Predict the effect of Genetic Variants to enable Personalized Medicine 
+
+<h1>hi</h>
